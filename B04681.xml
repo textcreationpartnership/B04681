@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tragedy of Gray-Beard or The brandybotle of Kinkegolaw: With an answer to Mr. Guild's vindication of the brandy-bottle of Kinkegolaw, which is not here mentioned. Being the tragedy of the Duke de Alva, alias Gray-beard, or The complaint of the brandy bottle, lost by a poor carriour by falling from the handle, and found by a company of the Presbitery of Peebles near to Kinkegolaw, as they returned from Glasgow, immediately after they had taken the Test.</title>
+            <author>Pennecuik, Alexander, 1652-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04681</idno>
+            <idno type="STC">Wing P1397</idno>
+            <idno type="STC">ESTC R181641</idno>
+            <idno type="EEBO-CITATION">51784612</idno>
+            <idno type="OCLC">ocm 51784612</idno>
+            <idno type="VID">175022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175022)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2709:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tragedy of Gray-Beard or The brandybotle of Kinkegolaw: With an answer to Mr. Guild's vindication of the brandy-bottle of Kinkegolaw, which is not here mentioned. Being the tragedy of the Duke de Alva, alias Gray-beard, or The complaint of the brandy bottle, lost by a poor carriour by falling from the handle, and found by a company of the Presbitery of Peebles near to Kinkegolaw, as they returned from Glasgow, immediately after they had taken the Test.</title>
+                  <author>Pennecuik, Alexander, 1652-1722.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [s.n.],</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>in the year 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Attribution from Wing (2nd ed.).</note>
+                  <note>In verse.</note>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scottish poetry --  To 1700.</term>
+               <term>Scotland --  History --  1689-1745 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175022:1" rendition="simple:additions"/>
+            <pb facs="tcp:175022:1"/>
+            <pb facs="tcp:175022:2"/>
+            <pb facs="tcp:175022:2" rendition="simple:additions"/>
+            <p>THE TRAGEDY OF GRAY-BEARD OR THE BRANDY BOTLE OF
+<hi>KINKEGOLAW:</hi>
+            </p>
+            <p>With an Anſwer to Mr. <hi>Guild</hi>'s Vindication of the
+<hi>Brandy-Bottle</hi> of <hi>Kinkegolaw,</hi> which is not here mentioned.</p>
+            <p>
+               <hi>Being the Tragedy of the Duke</hi> de Alva, <hi>alias</hi> Gray-beard, <hi>or the Complaint of the</hi> Bran<g ref="char:EOLhyphen"/>dy Bottle, <hi>loſt by a poor Carriour by falling from the Handle, and found by a Company of the Presbitry of</hi> Peebles <hi>near to</hi> Kinke<g ref="char:EOLhyphen"/>golaw, <hi>as they returned from</hi> Glaſgow, <hi>im<g ref="char:EOLhyphen"/>mediatly after they had taken the</hi> Teſt.</p>
+            <p>Printed in the Year 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tragedy">
+            <pb n="2" facs="tcp:175022:3"/>
+            <head>The Tragedy of the Duke <hi>de Alva,</hi> alias
+<hi>Gray-Beard,</hi> or the Complaint of the <hi>Brandie Bottle,</hi> loſt by a poor Carriour by falling from the Handle, and found by a Campany of the Presbytery of <hi>Peebles</hi> near to <hi>Kinke<g ref="char:EOLunhyphen"/>golaw,</hi> as they returned from <hi>Glaſgow,</hi> im<g ref="char:EOLhyphen"/>mediatly after they had taken the Teſt.</head>
+            <l>IT fell upon the Moneth of <hi>November,</hi>
+            </l>
+            <l>A fatal Fall my Bodie did Diſmember:</l>
+            <l>Many ſhall tell the Tale that never ſaw,</l>
+            <l>The <hi>Brandy-Bottle</hi> of <hi>Kinkegolaw.</hi>
+            </l>
+            <l>Where groaning on the ground <hi>I</hi> chanc'd to ſpy</l>
+            <l>Two Men in <hi>Black</hi> devoutly paſſing by;</l>
+            <l>So when my feeble voice their ears could reach</l>
+            <l>Poor antient <hi>Gray-beard</hi> thus began to preach</l>
+            <l>O Sons of <hi>Levi,</hi> Miniſters of Grace,</l>
+            <l>Have ſome regard to my right reverend Face;</l>
+            <l>My broken Shoulders, and my wrinkled Brow,</l>
+            <l>Calls faſt for Pity and Supply from you;</l>
+            <l>Help, Godly Sirs, and if it be your Will,</l>
+            <l>Convey me ſafely Home to <hi>Bigger</hi>-Mill;</l>
+            <l>
+               <pb n="3" facs="tcp:175022:3" rendition="simple:additions"/>Where going to the Widow I was loſt,</l>
+            <l>Alas! I fear the Carriour pay the coſt.</l>
+            <l>Poor Soul, if this miſchance ſhould him betide,</l>
+            <l>He has no more in all the World beſide.</l>
+            <l>They did not reliſh this Diſcourſe of mine,</l>
+            <l>But vow'd the poor ſhould ſoon be out of pine;</l>
+            <l>And took me Priſoner to <hi>Kinkegolaw</hi>
+            </l>
+            <l>Where ſtore of that <hi>Black Company</hi> I ſaw:</l>
+            <l>Fy Sirs, ſaid <hi>I</hi> you have at <hi>Glaſgow,</hi> been,</l>
+            <l>Swearing Alledgeance to your <hi>God</hi> and <hi>King;</hi>
+            </l>
+            <l>So do not ſuperad ſo foul a Deed,</l>
+            <l>And take poor <hi>Gray-beard</hi>'s blood upon your head,</l>
+            <l>This cruelty ſore ſhould you all repent,</l>
+            <l>Were he but here whoſe Picture I preſent,</l>
+            <l>And yet before we part, I'll ſo prevail,</l>
+            <l>The beſt of you ſhall ſtrive to kiſs my Tail,</l>
+            <l>This I was taught when <hi>Gray beard</hi> I was call'd</l>
+            <l>That proper, pure religion, and undefil'd;</l>
+            <l>The Widows Caſe and Fatherleſs did notice,</l>
+            <l>And ne'r drank out, but filld their empty botles</l>
+            <l>At firſt they pitied my Lifeleſs Skin,</l>
+            <l>But when they found ſome cordial heat within</l>
+            <l>They flock'd about &amp; quickly me ſurrounded</l>
+            <l>And cruelly unto the Heart me wounded:</l>
+            <l>
+               <pb n="4" facs="tcp:175022:4"/>They ſaid <hi>de Alva</hi> never took the <hi>Teſt,</hi>
+            </l>
+            <l>Therefore rank <hi>Papiſt</hi> go unto thy reſt;</l>
+            <l>And brag of thy right honourable Tomb:</l>
+            <l>When thou art buri'd in a <hi>Teſters</hi> Womb,</l>
+            <l>Right blyth they were &amp; drank to one anoth<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>And ſtill th'health went round, here to you br<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>I love thy blood ſo well ſays Maſter <hi>Boe,</hi>
+            </l>
+            <l>Thy Bones to <hi>Tweed</hi> ſhall in Proceſſion go,</l>
+            <l>At laſt the Hoſtes of the Houſe came in,</l>
+            <l>Finding the Brethren in a merry pin,</l>
+            <l>She tells them that a Carriour poor had loſt;</l>
+            <l>The <hi>Brandy-Botle</hi> whereof they did boaſt;</l>
+            <l>And for a ſure unqueſtionable Token,</l>
+            <l>Here is the hand look ye where it was broke<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>So grave and reverend Sirs be but ſo handſome</l>
+            <l>To take a double Gill for <hi>Gray-breads</hi> ranſom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>At which their godly Wiſdoms were confoun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>For they had no intention to refound it.</l>
+            <div type="speech">
+               <head>
+                  <hi>Mr.</hi> P. Purdy Speaks.</head>
+               <l>Yet one ſtood up in Name of all the reſt,</l>
+               <l>And ſwore he bought it when he took the <hi>Teſt</hi>
+               </l>
+               <l>So be he Poor or Rich the <hi>Brandy</hi> loſt,</l>
+               <l>Till Doomſday we ſhall never pay the coſt.</l>
+               <l>
+                  <pb n="5" facs="tcp:175022:4"/>This Wife wil Lodge none be it <hi>Paul</hi> or <hi>Peter</hi>
+               </l>
+               <l>If once they take the <hi>teſt,</hi> for fear they cheat her</l>
+               <l>You ſhall not find a Cloyſter of ſuch Clouns,</l>
+               <l>Search all the Squads of Troupers or Dragouns</l>
+               <l>Survey the Country, try the Broken Lairds,</l>
+               <l>Search <hi>Mar</hi> &amp; <hi>Lithgows</hi> regiments of guards)</l>
+               <l>Such ſprit Liquor cures Us of all Sorrow;</l>
+               <l>Courage we'll take another <hi>Teſt</hi> to Morrow:</l>
+               <l>And after all is done, we can Recant,</l>
+               <l>And ſwear to <hi>Tenor, Teſt</hi> or <hi>Covenant:</hi>
+               </l>
+               <l>While we are here, we'll no Advantage ſhun,</l>
+               <l>There is no <hi>Brandy</hi> in the World to come,</l>
+            </div>
+            <div type="answer">
+               <head>An Anſwer to Mr. <hi>Guild's</hi> Vindi<g ref="char:EOLhyphen"/>cation.</head>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nfamous Scribler, Natures Fool and Shame!</l>
+               <l>O ſenſeleſs Satyre, Beaſt without a Name;</l>
+               <l>Thou ſcandal to Devotion, ſcurvy <hi>Prieſt,</hi>
+               </l>
+               <l>Why made thou earneſt of a merry Jeſt?</l>
+               <l>Baſe <hi>Ballader,</hi> had thou no Remorſe,</l>
+               <l>To turn poor <hi>Gray-heads</hi> Caſe from bad to worſe</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll my thy ſlanderous Tongue for ever ſmart,</l>
+               <l>Though it run parallel with thy falſe heart,</l>
+               <l>
+                  <pb n="6" facs="tcp:175022:5"/>And cudgel thy dry Carcaſe into Tears,</l>
+               <l>Were't not for the ſacred Coat thou bears.</l>
+               <l>What Mortal can read manners, good or gra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>In the dark Lanthern of thy <hi>Gipſies</hi> Face:</l>
+               <l>Thou neaſty <hi>Negro,</hi> filthy reaſty <hi>Ram,</hi>
+               </l>
+               <l>A skin like that of a <hi>Weſtphalia-ham;</hi>
+               </l>
+               <l>
+                  <hi>Egyptian Mummy</hi> out of ſight be gone.</l>
+               <l>Let none but <hi>Surgeons</hi> view thy <hi>Scaleton.</hi>
+               </l>
+               <l>A Female amorous that were in Love,</l>
+               <l>At thy firſt view would ſoon abortive prove</l>
+               <l>If by misfortune ſhe ſhould chance to ſee,</l>
+               <l>So foul a Compound of Disformitie.</l>
+               <l>Thou calls the Author fool that never hear<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>How <hi>Spaniards</hi> wear Muſtachoes &amp; no beard</l>
+               <l>Obſcure Phantaſtick Fellow let alone,</l>
+               <l>I have ſeen 500 <hi>Spaniards</hi> for thy one:</l>
+               <l>And yet <hi>I</hi> ſwear of all thy Sun-brunt Crew,</l>
+               <l>I ſaw not one had thy prodigious Hew:</l>
+               <l>Granting that this the <hi>Spaniards</hi> Cuſtom we<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>In every place are not ſome ſingular?</l>
+               <l>Bold <hi>Igno<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amus,</hi> what needs all thir Jarrs?</l>
+               <l>Read thou but <hi>Strabo</hi> on the <hi>Belgick</hi> Wars;</l>
+               <l>Where thou wilt ſee D. <hi>Alvas</hi> Beard &amp; Face,</l>
+               <l>The <hi>Dutch</hi> drew on their Bottles in diſgrace.</l>
+               <l>
+                  <pb n="7" facs="tcp:175022:5"/>Thou Poetaſters Ape, ſtain to thy Nation</l>
+               <l>Vile Product of ſome monſtruous Copulation</l>
+               <l>Officious Guild, where were thy Fancy brags,</l>
+               <l>When Gullenſtript thee from thy Louſie-rags.</l>
+               <l>And wilt thou Verifie that general Evil,</l>
+               <l>Let Beggars tide, they'l gallop to the Devil.</l>
+               <l>Did this look Goſpel-like, Guilddar thou ſay't</l>
+               <l>To drink the poor Mans Bottle &amp; not pay't</l>
+               <l>Or was it ſeemly for a Man that Preaches,</l>
+               <l>To ſteal away the Bottle in his Breeches,</l>
+               <l>Look that thy abſence make the not deſpair,</l>
+               <l>And cut thy Throat, becauſe thou miſt a ſhare</l>
+               <l>For ſure it was, it put the in a Rapture,</l>
+               <l>That thou forgot both Prayer, Grace &amp; Chapter</l>
+               <l>Thy wiſer Brethren ſilent were &amp; ſorrie,</l>
+               <l>Such Fools as thou do make their ſhame their glory</l>
+               <l>Thou wilt not have that fault ſo much as nam'd</l>
+               <l>Which they themſelves firſt openlie Proclaim'd</l>
+               <l>Thine was a Raling not a Vindication,</l>
+               <l>And makes thee now Ridiculous to the Nation</l>
+               <l>Why does this Fellow thus his Follie vent</l>
+               <l>Doth <hi>Boe</hi> or He our whole Church Repreſent?</l>
+               <l>Among the <hi>Apoſtles</hi> was there not a Cheat,</l>
+               <l>And ſee we not the <hi>Tares</hi> grow with the What</l>
+               <l>
+                  <pb n="8" facs="tcp:175022:6"/>Don't hiſing ſnaks cloud the fair gliſtring mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And grow not naughtie Gull among the Cor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Clap to thy ſtomack this my bliſtring Plaiſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And Learn no more to meddle with thy Maſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Which if thou do, the next it will be ſharpe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>I</hi> Fear not thee, far leſs <hi>Tom Suter</hi> Harper</l>
+               <l>Whom I could whip, but Credit me reſtrai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Becauſe the Fellow is not worth my pains.</l>
+               <l>Now ſhow thy ſelf great <hi>Caeſar</hi> Man or <hi>ni<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>O <hi>Guild</hi> thou fool, mock Preacher at <hi>Kirkm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </div>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:175022:6"/>
+            <pb facs="tcp:175022:7"/>
+            <pb facs="tcp:175022:7"/>
+            <pb facs="tcp:175022:8"/>
+            <pb facs="tcp:175022:8" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
